@@ -1,0 +1,31 @@
+body{background-color: rgb(117, 114, 114);}
+.container-fluid{
+    background-image: url("category background1.jpeg");
+    background-position:center; 
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+    
+}
+
+h1.heads{font-family: 'Times New Roman', Times, serif; font-weight: bolder; margin-left: 600px; color: azure;}
+.head{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(255, 255, 255); font-style: italic; letter-spacing: 2px; font-weight: bolder;}
+
+.text{text-align:start; font-weight: bold; font-style: italic; padding-left: 30px; font-size: large;}
+
+div.second{
+    padding-top: 90px;
+    padding-left: 100px;
+   
+}
+
+div.first{
+    padding-top: 90px;
+    padding-left: 200px;
+}
+#myImage{ width: 40%;}
+#myImage:hover{transform: scale(1.1);}
+
+
+.footer{text-align: center; background-color: rgb(182, 180, 178);}
+
